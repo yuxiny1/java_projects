@@ -18,7 +18,16 @@ public class Human {
         System.out.println("I am " + heightInInches + " inches tall");
 
     }
-    public void eat(){
+
+    public void eat() {
         System.out.println("Eating");
+    }
+
+    public void walk() {
+        System.out.println("walking...");
+    }
+
+    public void work(){
+        System.out.println("working ...");
     }
 }

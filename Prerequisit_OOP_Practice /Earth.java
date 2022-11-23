@@ -12,5 +12,8 @@ public class Earth {
         //System.out.print(""+human1.speak()+""+"" human1.eat()"");
         //System.out.print("play"+ +" ");
         human1.eat();
+        human1.work();
+        human2.walk();
+        human3.eat();
     }
 }
