@@ -1,4 +1,4 @@
-package Lesson_5;
+package lesson_5_HospitalManagement;
 
 public class Doctor extends Employee{
     public Doctor(int id, String name, String department, boolean working) {

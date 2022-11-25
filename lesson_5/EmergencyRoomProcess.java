@@ -1,4 +1,4 @@
-package Lesson_5;
+package lesson_5_HospitalManagement;
 
 import Lesson_5.HospitalManagement;
 
@@ -8,5 +8,7 @@ public class EmergencyRoomProcess {
         HospitalManagement ERDirector = new HospitalManagement();
         Employee peggy = new Nurse(1, "Peggy", "emergency", true);
         ERDirector.callUpon(peggy);
+        Employee suzan = new Doctor(2, "Suzan", "emergency", true);
+        ERDirector.callUpon(suzan);
     }
 }

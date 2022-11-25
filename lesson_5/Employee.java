@@ -1,4 +1,4 @@
-package Lesson_5;
+package lesson_5_HospitalManagement;
 
 public class Employee {
     private int id;
