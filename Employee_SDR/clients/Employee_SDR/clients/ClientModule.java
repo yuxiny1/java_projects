@@ -2,8 +2,6 @@ package Employee_SDR.clients;
 
 import org.w3c.dom.css.CSSValue;
 
-import Employee_SDR.domain.Employee;
-
 public class ClientModule {
 
     public static void main(String[] args) {

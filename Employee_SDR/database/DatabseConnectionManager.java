@@ -1,4 +1,5 @@
 package Employee_SDR.database;
+
 public class DatabaseConnectionManager {
     private static DatabaseConnectionManager instance = new DatabaseConnectionManager();
     // private Connection connection;

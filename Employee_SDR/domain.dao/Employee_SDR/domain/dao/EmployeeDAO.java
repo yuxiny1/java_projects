@@ -1,4 +1,4 @@
-import Employee_SDR.domain.Employee;
+package Employee_SDR.domain.dao;
 
 public class EmployeeDAO{
     public void saveEmployee(Employee employee){
