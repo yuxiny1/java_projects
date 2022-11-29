@@ -22,6 +22,7 @@ public class Vehicle {
     }
 
     public static class Builder {
+        //static class because it is not dependent on the instance of the outer class
         int price;
         String type;
         String make;
