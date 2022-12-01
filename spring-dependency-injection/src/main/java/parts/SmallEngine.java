@@ -1,6 +1,5 @@
 package parts;
 
-
 public class SmallEngine implements Engine {
     //creating engine object with int hoursePower
     private int horsePower;
